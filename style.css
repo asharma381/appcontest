@@ -1278,7 +1278,7 @@ ul#nav li ul a,
     background: #1193d4 none repeat scroll 0 0;
     bottom: 0;
     display: inline-block;
-    font-size: 35px;
+    font-size: 30px;
     height: 50px;
     margin-left: 10px;
     padding-top: 5px;
@@ -1338,7 +1338,7 @@ ul#nav li ul a,
 .home-button a {
     border: 2px solid;
     border-radius: 50px;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 700;
     letter-spacing: 1px;
     margin-right: 15px;
@@ -1947,7 +1947,7 @@ ul#nav li ul a,
 }
 
 .contact-area .area-bg::after {
-    background: rgba(0, 0, 0, 0) url("img/mockups/map-mockup.png") no-repeat scroll left 4% center / auto 39%;
+    /*background: rgba(0, 0, 0, 0) url("img/mockups/map-mockup.png") no-repeat scroll left 4% center / auto 39%;*/
 }
 
 .contact-area h2 {
@@ -2372,8 +2372,9 @@ label.mt10.valid {
     -webkit-animation: button_animation_2 1s infinite;
     animation: button_animation_2 1s infinite;
     background: #00e2d9;
-    background-image: -webkit-gradient(linear, right top, left top, from(#81ee8e), color-stop(#2deab6), color-stop(#00e2d9), color-stop(#00d7f2), to(#00c9fd));
-    background-image: linear-gradient(to left, #81ee8e, #2deab6, #00e2d9, #00d7f2, #00c9fd);
+    background-image: url(https://www.youtube.com/embed/yuYr85xtqWs);
+    /*background-image: -webkit-gradient(linear, right top, left top, from(#81ee8e), color-stop(#2deab6), color-stop(#00e2d9), color-stop(#00d7f2), to(#00c9fd));*/
+    /*background-image: linear-gradient(to left, #81ee8e, #2deab6, #00e2d9, #00d7f2, #00c9fd);*/
 }
 
 
@@ -2696,8 +2697,8 @@ label.mt10.valid {
 
 .home-three .contact-form button:hover {
     background: #00e2d9;
-    background-image: -webkit-gradient(linear, right top, left top, from(#81ee8e), color-stop(#2deab6), color-stop(#00e2d9), color-stop(#00d7f2), to(#00c9fd));
-    background-image: linear-gradient(to left, #81ee8e, #2deab6, #00e2d9, #00d7f2, #00c9fd);
+    /*background-image: -webkit-gradient(linear, right top, left top, from(#81ee8e), color-stop(#2deab6), color-stop(#00e2d9), color-stop(#00d7f2), to(#00c9fd));
+    background-image: linear-gradient(to left, #81ee8e, #2deab6, #00e2d9, #00d7f2, #00c9fd);*/
     color: #fff;
     border-color: #00e2d9;
 }
@@ -2827,7 +2828,7 @@ label.mt10.valid {
 }
 
 .page-barner-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("img/blog/blog-page-bg.jpg") no-repeat scroll center center / cover;
+    /*background: rgba(0, 0, 0, 0) url("img/blog/blog-page-bg.jpg") no-repeat scroll center center / cover;*/
 }
 
 .single-page .page-barner-area .area-bg::before {
